@@ -1,0 +1,8 @@
+{
+  "name": "Seheish",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
